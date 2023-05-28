@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    background-color: aquamarine;  
+    border-style: double;
+    border-color: black;
+    
+    
+    
+}
+.div1, .div2{
+    
+    background-color: hsla(86, 63%, 69%, 0.288);
+    border-style: double;
+    border-color: black;
+}
+
+
+.foto{
+  position: relative;
+  left: 30%;
+  width: 40%;
+  height: 40%;
+  border-style: groove;
+}
+body{
+    background-color: hsla(172, 72%, 67%, 0.548);
+}
+table{
+    width: 100%;
+    background-color: white;
+    text-align: left;
+}
+th, td{
+    border: 1px;
+    border-style: solid;
+    border-color: blue;
+}
+thead{
+    background-color: blueviolet;
+}
+.rss{
+	 width: 70px;
+     height: 30px;
+}
+.atom{
+	width: 50px;
+	height: 50px;
+}

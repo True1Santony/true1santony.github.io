@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+	<channel>
+		<title>Web de tiempo</title>
+		<link>file:///W:/DAW/lenguaje%20de%20marcas/tema3/index.html</link>
+		<description>El tiempo</description>
+		<language>es-ES</language>
+		<item>
+			<title>El tiempo en Madrid</title>
+			<link>https://www.tiempo.es/madrid-madrid-es0ma0079.html</link>
+			<description>El tiempo de Madrid</description>
+		</item>
+		<item>
+			<title>Camara directo Santander</title>
+			<link>https://www.tiempo.es/livecams/es0ct0076.html</link>
+			<description>Costa de Santander/cantabria, por si queremos ver el tiempo antes de ir</description>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,33 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+	<title>Actividad 3</title>
+	<id>file:///W:/DAW/lenguaje%20de%20marcas/tema3/index.html</id>
+	<link href="ejercicio3.xml" type="application/atom+xml" rel="self"/>
+	<link href="file:///W:/DAW/lenguaje%20de%20marcas/tema3/index.html" type="text/html" rel="alternate"/>
+	<updated>2023-01-02T20:36:50Z</updated>
+	<author>
+	<name>Espartaco Nassekine</name>
+	<email>espartaconassekine@gmail.com</email>
+	</author>
+		<entry>
+			<title>El tiempo en Madrid</title>
+			<id>https://www.tiempo.es/madrid-madrid-es0ma0079.html</id>
+			<link href="https://www.tiempo.es/madrid-madrid-es0ma0079.html" type="text/html" rel="alternate"/>
+			<updated>2023-01-02T20:51:00Z</updated>
+			<author>
+			<name>Espartaco Nassekine</name>
+			<email>espartaconassekine@gmail</email>
+			</author>
+			<summary>El tiempo que va a hacer en Madrid</summary>
+		</entry>
+		<entry>
+			<title>Camara directo Santander</title>
+			<id>https://www.tiempo.es/livecams/es0ct0076.html</id>
+			<link href="https://www.tiempo.es/livecams/es0ct0076.html" type="text/html" rel="alternate"/>
+			<updated>2023-01-02T20:55:00Z</updated>
+			<author>
+			<name>Espartaco Nassekine</name>
+			<email>espartaconassekine@gmail</email>
+			</author>
+			<summary>Costa de Santander/cantabria, por si queremos ver el tiempo antes de ir</summary>
+		</entry>
+</feed>
